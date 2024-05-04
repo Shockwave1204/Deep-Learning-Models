@@ -1,5 +1,5 @@
 {
-  "ResNet152_model": {
+  "model": {
     "architecture": "ResNet152",
     "weights": "https://github.com/Shockwave1204/Deep-Learning-Models/blob/main/New_ResNet152.h5"
   }
